@@ -32,6 +32,7 @@ The project focuses on clean backend architecture, secure authentication, and sc
 - Method-Override
 
 ## 📂 Project Structure
+```text
 StayEase/
 ├── app.js
 ├── cloudConfig.js
